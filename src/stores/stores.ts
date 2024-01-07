@@ -6,16 +6,16 @@ export const FeedbackStore = writable([
     {
         id: 1,
         rating: 10,
-        text: 'Olá, sou Rodrigo Mota'
+        text: 'Feedback teste3'
     },
     {
         id: 2,
         rating: 1,
-        text: 'Olá, sou Miguel Bizzi'
+        text: 'Feedback teste2'
     },
     {
         id: 3,
         rating: 7,
-        text: 'Oh my god, Miguel Bizzi, is the lixous'
+        text: 'Feedback teste1'
     }
 ])
